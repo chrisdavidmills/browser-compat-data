@@ -496,6 +496,7 @@
           },
           "text-scale": {
             "__compat": {
+              "description": "`<meta name=\"text-scale\">`",
               "spec_url": "https://drafts.csswg.org/css-fonts-5/#text-scale-meta",
               "support": {
                 "chrome": {
