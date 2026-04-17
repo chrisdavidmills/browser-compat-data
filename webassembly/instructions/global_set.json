@@ -1,11 +1,9 @@
 {
   "webassembly": {
-    "mutable-globals": {
+    "global_set": {
       "__compat": {
-        "spec_url": "https://webassembly.github.io/spec/js-api/#dom-globaldescriptor-mutable",
-        "tags": [
-          "web-features:wasm-mutable-globals"
-        ],
+        "description": "global.set",
+        "spec_url": "https://webassembly.github.io/spec/core/syntax/instructions.html#syntax-instr-variable",
         "support": {
           "chrome": {
             "version_added": "69"
