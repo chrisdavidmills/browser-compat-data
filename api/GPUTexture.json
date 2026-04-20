@@ -266,7 +266,7 @@
           },
           "transient_attachment": {
             "__compat": {
-              "description": "<code>transient_attachment</code> value",
+              "description": "`transient_attachment` value",
               "spec_url": "https://gpuweb.github.io/gpuweb/#dom-gputextureusage-transient_attachment",
               "tags": [
                 "web-features:webgpu"
