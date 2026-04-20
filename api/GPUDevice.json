@@ -2022,7 +2022,7 @@
         },
         "usage_transient_attachment": {
           "__compat": {
-            "description": "<code>transient_attachment</code> usage",
+            "description": "`transient_attachment` usage",
             "spec_url": "https://gpuweb.github.io/gpuweb/#dom-gputextureusage-transient_attachment",
             "tags": [
               "web-features:webgpu"
