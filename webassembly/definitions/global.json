@@ -1,6 +1,6 @@
 {
   "webassembly": {
-    "instructions": {
+    "definitions": {
       "global": {
         "__compat": {
           "spec_url": "https://webassembly.github.io/spec/core/syntax/modules.html#syntax-global",
