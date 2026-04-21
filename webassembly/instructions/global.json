@@ -40,7 +40,7 @@
             ],
             "support": {
               "chrome": {
-                "version_added": "69"
+                "version_added": "74"
               },
               "chrome_android": "mirror",
               "edge": "mirror",
