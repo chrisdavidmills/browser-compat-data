@@ -3,7 +3,7 @@
     "definitions": {
       "global": {
         "__compat": {
-          "spec_url": "https://webassembly.github.io/spec/core/syntax/modules.html#syntax-global",
+          "spec_url": "https://webassembly.github.io/spec/core/bikeshed/#syntax-global",
           "support": {
             "chrome": {
               "version_added": "69"
@@ -11,7 +11,7 @@
             "chrome_android": "mirror",
             "edge": "mirror",
             "firefox": {
-              "version_added": "62"
+              "version_added": "61"
             },
             "firefox_android": "mirror",
             "oculus": "mirror",
@@ -34,7 +34,7 @@
         "mut": {
           "__compat": {
             "description": "`mut`: mutable globals",
-            "spec_url": "https://webassembly.github.io/spec/core/syntax/types.html#syntax-mut",
+            "spec_url": "https://webassembly.github.io/spec/core/bikeshed/#syntax-mut",
             "tags": [
               "web-features:wasm-mutable-globals"
             ],

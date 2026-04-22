@@ -4,7 +4,7 @@
       "global_set": {
         "__compat": {
           "description": "global.set",
-          "spec_url": "https://webassembly.github.io/spec/core/syntax/instructions.html#syntax-instr-variable",
+          "spec_url": "https://webassembly.github.io/spec/core/bikeshed/#syntax-instr-variable",
           "support": {
             "chrome": {
               "version_added": "69"
