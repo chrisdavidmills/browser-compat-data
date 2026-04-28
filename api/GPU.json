@@ -239,7 +239,7 @@
               "chrome": {
                 "version_added": "146",
                 "partial_implementation": true,
-                "notes": "Compatibility mode supported only on Android 5.0 and above (running OpenGL ES 3.1 and above)."
+                "notes": "Compatibility mode supported only on Android 10.0 and above (running OpenGL ES 3.1 and above)."
               },
               "chrome_android": "mirror",
               "edge": "mirror",
